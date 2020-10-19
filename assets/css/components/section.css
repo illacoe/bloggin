@@ -33,7 +33,9 @@
 }
 
  
-
+.section__hero-btn{
+    display: inline-flex;
+}
 
 .section__btn-style{
     background-color: transparent;
@@ -48,6 +50,8 @@
     color: #ffffff;
     display: flex;
     align-items: center;
+    text-decoration: none;
+    justify-content: center;
 }
 .section__btn-style:hover{
     background-color: #000000; 
