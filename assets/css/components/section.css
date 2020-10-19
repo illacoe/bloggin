@@ -31,7 +31,9 @@
 .section__carousel-name{
     color: #ffffff;
 }
-
+.section__carousel-desc{
+    text-align: center;
+}
  
 .section__hero-btn{
     display: inline-flex;
