@@ -1,6 +1,5 @@
 @import "./components/nav.css";
-@import "./components/header.css";
-@import "./components/grid&queries.css";
+@import "./components/header.css"; 
 @import "./components/section.css";
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Work+Sans&display=swap");
 
