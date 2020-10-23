@@ -24,6 +24,8 @@
 .section__carousel-img{
     width: 220px;
     border-radius: 20px;
+    height: 215px;
+    object-fit: cover;
 }
 .section__hero-title{
     margin-bottom: 30px;
